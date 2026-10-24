@@ -1,2 +1,2 @@
-# Egypt-Culture
-A website that helps people exploring Egypt Culture
+# Hackclub
+Exploring more about the Egyption culture
